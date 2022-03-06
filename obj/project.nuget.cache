@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "i9tuWujVbFQahwbn+xH0MVxFcXKue/X+t6/82Yk1QvGzJxuEMQGKEnEePxcfzl/Wfhz9CRgTqOZOTlrmFiSGLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trusg\\OneDrive\\cours\\2eme année\\visual basic\\jackpot\\Jackpot.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trusg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\trusg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\trusg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\trusg\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
